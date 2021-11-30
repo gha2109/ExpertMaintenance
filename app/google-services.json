@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "16241585288",
+    "project_id": "expert-maintenance-49739",
+    "storage_bucket": "expert-maintenance-49739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:16241585288:android:8c80b29b7f7cce71cf033d",
+        "android_client_info": {
+          "package_name": "com.example.expertmaintenance"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "16241585288-2mlfvbo6rjppf9vje8cvi38p6mhmbdku.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTF7IYxNN08D3nVMMYwutyegPb086LN6A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "16241585288-2mlfvbo6rjppf9vje8cvi38p6mhmbdku.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
